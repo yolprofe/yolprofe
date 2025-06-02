@@ -7,5 +7,4 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on INS Joaquim Mir
-- 🌱 I’m currently learning Git amb Github
-- 👯 I’m looking to collaborate with anyone likes learning
+- 👯 I’m looking to collaborate with anyone who likes to learn
